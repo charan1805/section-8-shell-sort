@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ assigned projects\section 8\Shellsort\bin\Debug\Shellsort.exe.config
+E:\my details\personal\c sharp\ assigned projects\section 8\Shellsort\bin\Debug\Shellsort.exe
+E:\my details\personal\c sharp\ assigned projects\section 8\Shellsort\bin\Debug\Shellsort.pdb
+E:\my details\personal\c sharp\ assigned projects\section 8\Shellsort\obj\Debug\Shellsort.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\Shellsort\obj\Debug\Shellsort.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\Shellsort\obj\Debug\Shellsort.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ assigned projects\section 8\Shellsort\obj\Debug\Shellsort.exe
+E:\my details\personal\c sharp\ assigned projects\section 8\Shellsort\obj\Debug\Shellsort.pdb
